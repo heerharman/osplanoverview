@@ -37,7 +37,7 @@
 <body>
     <h1>OPS Plan Overview</h1>
     <p>Hi, I am Harmanvir Kaur, HD Supervisor. Welcome to my OPS Plan.</p>
-    <img src="selfirmine.jpg" alt="Selfie of Harmanvir Kaur" style="display:block; margin:auto; max-width: 50px;">
+    <img src="selfirmine.jpg" alt="Selfie of Harmanvir Kaur" style="display:block; margin:auto; max-width: 100px;">
     
     <h2>Reason for the Plan</h2>
     <p>Overview of upcoming fiscal year internal help desk operations.</p>
