@@ -38,7 +38,7 @@
     <h1>OPS Plan Overview</h1>
     <p>Hi, I am Harmanvir Kaur, HD Supervisor. Welcome to my OPS Plan.</p>
     <video width="640" height="360" controls>
-    <source src="your-video.mp4" type="video/mp4">
+    <source src="opsplanvideo.mp4" type="video/mp4">
 </video>
 
     
