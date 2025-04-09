@@ -65,7 +65,7 @@
         <li>User benefit: Faster issue resolution improves user productivity.</li>
 
         <li>Increase self-service effectiveness by 10% by year-end.</li>
-        <li>User benefit: Empower users with solutions reducing wait times for support.</li>
+        <li>User benefit: Empower users with solutions reducing wait times for support.</li> 
 
         <li>Decrease backlog by 15% by year-end.</li>
         <li>User benefit: Reduce unresolved requests ensuring quicker resolution.</li>
