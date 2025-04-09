@@ -70,7 +70,7 @@
         <li>Decrease backlog by 15% by year-end.</li>
         <li>User benefit: Reduce unresolved requests ensuring quicker resolution.</li>
     </ul>
-    <p><a href="report-download.html">Click here to view full Excel measurement report</a></p>
+    <p><a href="report-download.xlsx">Click here to view full Excel measurement report</a></p>
 
 
     <h3>Final Paragraph</h3>
